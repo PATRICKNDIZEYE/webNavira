@@ -1,4 +1,4 @@
-*** Insighits driven search Engine ***
+***Insighits driven search Engine***
 
 
 Screenshots 
